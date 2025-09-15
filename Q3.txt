@@ -22,7 +22,7 @@ printf("breadth:");
 scanf("%d",&breadth);
 int area=length*breadth;
 int perimeter=2*(length+breadth);
-printf("atrea of rectangle=%d",area);
+printf("area of rectangle=%d",area);
 printf("\nperimeter of rectangle=%d",perimeter);
 return 0;
 }

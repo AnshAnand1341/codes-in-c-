@@ -1,4 +1,4 @@
-Q2: Write a program to input two numbers and display their sum, difference, product, and quotient.
+// Q2: Write a program to input two numbers and display their sum, difference, product, and quotient.
 
 /*
 Sample Test Cases:
@@ -26,4 +26,5 @@ int main(){
     printf("\nproduct=%d",a*b);
     printf("\nquotient=%d",a/b);
     return 0;
+
 }

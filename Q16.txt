@@ -1,4 +1,4 @@
-Q16: Write a program to input three numbers and find the largest among them using if–else.
+// Q16: Write a program to input three numbers and find the largest among them using if–else.
 
 /*
 Sample Test Cases:
@@ -32,4 +32,5 @@ int main(){
         printf("c is largest");
     }
     return 0;
+
 }

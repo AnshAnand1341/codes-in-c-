@@ -1,4 +1,4 @@
-Q18: Write a program to assign grades based on a percentage input.
+// Q18: Write a program to assign grades based on a percentage input.
 
 /*
 Sample Test Cases:
@@ -44,4 +44,5 @@ else{
 printf("Grade F");
 }
 return 0;
+
 }

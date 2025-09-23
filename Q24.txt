@@ -1,5 +1,5 @@
 
-Q24: Write a program to calculate an electricity bill based on units consumed.
+// Q24: Write a program to calculate an electricity bill based on units consumed.
 
 /*
 Sample Test Cases:
@@ -40,3 +40,4 @@ int main() {
 
     return 0;
 }
+
